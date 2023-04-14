@@ -1,16 +1,10 @@
-# climate_app
+# Zee Palm UI Code
 
-A new Flutter project.
+Self Care App Onboarding UI done with Flutter 3.7.0
 
-## Getting Started
+## Details
 
-This project is a starting point for a Flutter application.
+This project includes meditation and sleep tracking screens.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://user-images.githubusercontent.com/128903428/232060724-91c1344f-3369-4d16-8986-579a29057b7a.png" height="400" />
+<img src="https://user-images.githubusercontent.com/128903428/232060298-68cb78eb-69a8-4839-8979-d16284240303.png" width="200" height="400" />
