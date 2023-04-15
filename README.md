@@ -1,6 +1,6 @@
 # Zee Palm UI Code
 
-Self Care App Onboarding UI done with Flutter 3.7.0
+Self Care App UI done with Flutter 3.7.0
 
 ## Details
 
